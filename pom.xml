@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>dockerjar-jen</groupId>
   <artifactId>dockerjar-jen</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>1.0.0</version>
   <name>dockerjar-jen</name>
   <description>Maven打包docker在java直接运行的项目</description>
